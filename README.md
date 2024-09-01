@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**SyartZahiri/syartzahiri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&random=false&width=435&lines=+Hello!;I+am+Syart!)](https://syart.dev)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+* 🌍  I'm based in Switzerland
+* 🖥️  See my [portfolio](http://syart.vercel.app)
+
+<h2>🛠️ Tools and Programming Languages</h2>
+<a href="https://syart.vercel.app">
+    <img src="https://skillicons.dev/icons?i=js,nodejs,react,html,css,python,github,git,mongodb,docker" alt="Skills">
+</a>
+
+
+
+
+
