@@ -4,7 +4,7 @@
 
 
 * 🌍  I'm based in Switzerland
-* 🌍  I'm 14 years old
+* 👨‍💻  I'm 14 years old
 * 🖥️  See my [portfolio](http://syart.vercel.app)
 
 <h2>🛠️ Tools and Programming Languages</h2>
