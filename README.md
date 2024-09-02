@@ -4,7 +4,8 @@
 
 
 * 🌍  I'm based in Switzerland
-* 👨‍💻  I'm 14 years old
+* 👦  I'm 14 years old
+* 👨‍💻  What I use daily: ```.py```
 * 🖥️  See my [portfolio](http://syart.vercel.app)
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/456483912420556800?simple=true)
