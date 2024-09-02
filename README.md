@@ -7,7 +7,7 @@
 * 👨‍💻  I'm 14 years old
 * 🖥️  See my [portfolio](http://syart.vercel.app)
 
-
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/456483912420556800)
 
 <h2>🛠️ Tools and Programming Languages</h2>
 <a href="https://syart.vercel.app">
