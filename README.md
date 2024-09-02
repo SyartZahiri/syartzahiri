@@ -16,6 +16,7 @@
     <img src="https://skillicons.dev/icons?i=windows,vscode,pycharm,python,js,nodejs,react,html,css,github,git," alt="Skills">
 </a>
 
+#
 
 <details>
   <summary>Github Stats ⚡</summary>
