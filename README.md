@@ -26,7 +26,6 @@
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syartzahiri&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Languages">
   </a>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tandpfun&layout=compact&theme=blueberry&count_private=true&hide_border=true)
 </details>
 
 
