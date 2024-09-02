@@ -21,7 +21,7 @@
 <details>
   <summary><h2>GitHub Stats ⚡</h2></summary>
   
-  ![Syart's GitHub stats](https://github-readme-stats.vercel.app/api?username=syartzahiri&theme=blueberry&count_private=true&hide_border=true&line_height=20)
-  ![Syart's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syartzahiri&layout=compact&theme=blueberry&count_private=true&hide_border=true)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=syartzahiri&theme=blueberry&count_private=true&hide_border=true&line_height=20)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syartzahiri&layout=compact&theme=blueberry&count_private=true&hide_border=true)
   
 </details>
