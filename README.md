@@ -20,12 +20,9 @@
 
 <details>
   <summary><h2>Github Stats ⚡</h2></summary>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api?username=syartzahiri&theme=blueberry&count_private=true&hide_border=true&line_height=20" alt="Github Stats">
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syartzahiri&layout=compact&theme=blueberry&count_private=true&hide_border=true" alt="Top Languages">
-  </a>
+  <a href="https://github-readme-stats.vercel.app/api?username=syartzahiri&theme=blueberry&count_private=true&hide_border=true&line_height=20" target="_blank">Github Stats</a>
+  <br>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=syartzahiri&layout=compact&theme=blueberry&count_private=true&hide_border=true" target="_blank">Top Languages</a>
 </details>
 
 
