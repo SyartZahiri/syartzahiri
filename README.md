@@ -9,7 +9,7 @@
 
 <h2>🛠️ Tools and Programming Languages</h2>
 <a href="https://syart.vercel.app">
-    <img src="https://skillicons.dev/icons?i=windows,vscode,pycharm,js,nodejs,react,html,css,python,github,git," alt="Skills">
+    <img src="https://skillicons.dev/icons?i=windows,vscode,pycharm,python,js,nodejs,react,html,css,github,git," alt="Skills">
 </a>
 
 
