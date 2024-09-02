@@ -19,7 +19,7 @@
 #
 
 <details>
-  <summary> Github Stats ⚡</summary>
+  <summary><h2>Github Stats ⚡</h2></summary>
   ![Github stats](https://github-readme-stats.vercel.app/api?username=syartzahiri&theme=blueberry&count_private=true&hide_border=true&line_height=20)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syartzahiri&layout=compact&theme=blueberry&count_private=true&hide_border=true)
 </details>
