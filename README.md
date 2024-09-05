@@ -8,7 +8,8 @@
 * 👨‍💻  What I use daily: ```.py```
 * 🖥️  See my [portfolio](http://syart.vercel.app)
 <p align="left">
-<!--<a href="https://www.linkedin.com/in/syart/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>-->
+<!--<a href="https://www.linkedin.com/in/syart/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="david mendoza ramos" height="30" width="40" /></a>-->
+<a href="https://instagram.com/syart.zh" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="anderson_mend53" height="30" width="40" /></a>
 <a href="https://instagram.com/syart.zh" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="anderson_mend53" height="30" width="40" /></a>
 </p>
 
