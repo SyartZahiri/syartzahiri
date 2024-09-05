@@ -10,7 +10,6 @@
 <p align="left">
 <!--<a href="https://www.linkedin.com/in/syart/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="david mendoza ramos" height="30" width="40" /></a>-->
 <a href="https://instagram.com/syart.zh" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="anderson_mend53" height="30" width="40" /></a>
-<a href="https://instagram.com/syart.zh" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="anderson_mend53" height="30" width="40" /></a>
 </p>
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/456483912420556800?simple=true)
