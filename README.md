@@ -13,9 +13,6 @@
 <a href="https://instagram.com/syart.zh" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="anderson_mend53" height="30" width="40" /></a>
 </p>
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/456483912420556800?simple=true)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/456483912420556800)](https://dev.discordprofiles.me/openspotify/456483912420556800)
-
 
 <h2>🛠️ Tools and Programming Languages</h2>
 <a href="https://syart.vercel.app">
