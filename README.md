@@ -6,7 +6,7 @@
 * 🌍  I'm based in Switzerland
 * 👦  I'm 14 years old
 * 👨‍💻  What I use daily: ```.py```
-* 🖥️  See my [portfolio](http://syart.vercel.app)
+* 🖥️  See my [portfolio]()
 <p align="left">
 <a href="https://github.com/syartzahiri" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="anderson_mend53" height="30" width="40" /></a>
 <!--<a href="https://www.linkedin.com/in/syart/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="david mendoza ramos" height="30" width="40" /></a>-->
