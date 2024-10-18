@@ -15,7 +15,7 @@
 
 
 <h2>🛠️ Tools and Programming Languages</h2>
-<a href="https://syart.vercel.app">
+<a href="">
     <img src="https://skillicons.dev/icons?i=python,js,html,css,windows,vscode,pycharm,github,git,discord" alt="Skills">
 </a>
 
