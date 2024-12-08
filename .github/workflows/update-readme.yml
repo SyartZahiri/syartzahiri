@@ -1,0 +1,26 @@
+name: Update README with Age
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Täglich um Mitternacht
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Run age script
+        run: python3 path/to/age_script.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "Your GitHub Username"
+          git config user.email "your-email@example.com"
+          git add README.md
+          git commit -m "Update age in README"
+          git push
