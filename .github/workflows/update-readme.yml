@@ -24,7 +24,7 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config user.name "SyartZahiri"
+          git config user.name "syartzahiri"
           git add README.md
           git commit -m "Update age in README"
           git push
