@@ -1,14 +1,20 @@
 from datetime import datetime
 
-birth_date = datetime(2009, 12, 8)  # Dein Geburtsdatum
-today = datetime.today()
-age = today.year - birth_date.year - ((today.month, today.day) < (birth_date.month, birth_date.day))
+# Dein Geburtsdatum
+birth_year = 2009
+birth_month = 12
+birth_day = 8
 
-# Lies README-Datei, aktualisiere den Alters-Text und schreibe sie zurück
+today = datetime.today()
+age = today.year - birth_year - ((today.month, today.day) < (birth_month, birth_day))
+
+# Lese die README-Datei
 with open('README.md', 'r') as file:
     content = file.read()
 
-content = content.replace("👦 Hello, I'm X years old!", f"👦 Hello, I'm {age} years old!")
+# Ersetze das Alter in der README-Datei
+content = content.replace("👦  Hello, I'm X years old!", f"👦  Hello, I'm {age} years old!")
 
+# Schreibe die Änderungen zurück in die README-Datei
 with open('README.md', 'w') as file:
     file.write(content)
