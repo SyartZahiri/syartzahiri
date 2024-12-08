@@ -2,8 +2,8 @@ name: Update Age in README
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Läuft einmal täglich
-  workflow_dispatch: # Manuelle Ausführung möglich
+    - cron: '0 0 * * *'  # Führt den Workflow einmal täglich aus
+  workflow_dispatch:  # Ermöglicht manuelle Ausführung
 
 jobs:
   update-readme:
@@ -17,9 +17,6 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: '16'
-
-      - name: Install dependencies
-        run: npm install
 
       - name: Run script to update README with age
         run: node update-age.js
