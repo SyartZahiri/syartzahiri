@@ -27,6 +27,4 @@ jobs:
           git config user.name "syartzahiri"
           git config user.email "noreply@github.com"  # Verwende eine generische E-Mail
           git add README.md
-          git diff --cached --exit-code || (git commit -m "Update age in README" && git push https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/SyartZahiri/syartzahiri.git HEAD:main)
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
