@@ -24,8 +24,7 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config user.name "Your GitHub Username"
-          git config user.email "your-email@example.com"
+          git config user.name "SyartZahiri"
           git add README.md
           git commit -m "Update age in README"
           git push
