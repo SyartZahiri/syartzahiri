@@ -2,7 +2,7 @@ name: Update Age in README
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Führt den Workflow einmal täglich aus
+    - cron: '0 0 * * *'  # Führt den Workflow täglich aus
   workflow_dispatch:  # Ermöglicht manuelle Ausführung
 
 jobs:
