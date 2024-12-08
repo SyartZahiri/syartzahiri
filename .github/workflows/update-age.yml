@@ -1,0 +1,33 @@
+name: Update Age in README
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Läuft einmal täglich
+  workflow_dispatch: # Manuelle Ausführung möglich
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run script to update README with age
+        run: node update-age.js
+
+      - name: Commit and push changes
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: 'GitHub Actions'
+          author_email: 'actions@github.com'
+          message: 'Update age in README.md'
+          add: 'README.md'
