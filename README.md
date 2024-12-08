@@ -5,6 +5,7 @@
 
 * 🌍  I'm based in Switzerland
 * 👦  I'm 14 years old
+![age](https://syartzahiri.github.io/age/)
 * 👨‍💻  What I use daily: ```.py```
 * 🖥️  See my [portfolio]()
 <p align="left">
