@@ -16,7 +16,7 @@ function getAge(birthYear, birthMonth, birthDay) {
 }
 
 function updateReadme() {
-    const age = getAge(2009, 11, 31); // Beispiel: 31. Dezember 2009
+    const age = getAge(2009, 12, 31); // Beispiel: 31. Dezember 2009
     const readmePath = path.join(__dirname, '../README.md');
 
     let readmeContent = fs.readFileSync(readmePath, 'utf-8');
