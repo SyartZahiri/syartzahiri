@@ -4,7 +4,7 @@
 
 
 * 🌍  I'm based in Switzerland
-* 👦  Hello, I'm X years old!
+* 👦  Hello, I'm 14 years old!
 * 👨‍💻  What I use daily: ```.py```
 * 🖥️  See my [portfolio]()
 <p align="left">
