@@ -22,10 +22,10 @@ jobs:
       - name: Run age script
         run: python3 age_script.py  
 
-      - name: Commit changes
+      - name: Commit changes and push
         run: |
           git config user.name "syartzahiri"
-          git config user.email "noreply@github.com"  # Allgemeine E-Mail-Adresse
+          git config user.email "noreply@github.com"  # Verwende eine generische E-Mail
           git add README.md
           git diff --cached --exit-code || (git commit -m "Update age in README" && git push https://github.com/SyartZahiri/syartzahiri.git HEAD:main)
         env:
