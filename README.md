@@ -9,7 +9,7 @@
 * 🖥️  See my [portfolio]()
 <p align="left">
 <a href="https://github.com/syartzahiri" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="anderson_mend53" height="30" width="40" /></a>
-<!--<a href="https://www.linkedin.com/in/syart/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="david mendoza ramos" height="30" width="40" /></a>-->
+<a href="https://www.linkedin.com/in/syart/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="david mendoza ramos" height="30" width="40" /></a>
 <a href="https://instagram.com/syart.zh" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="anderson_mend53" height="30" width="40" /></a>
 </p>
 
