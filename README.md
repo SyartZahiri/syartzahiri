@@ -28,3 +28,5 @@
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syartzahiri&layout=compact&theme=blueberry&count_private=false&hide_border=true)
   
 </details>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=syartzahiri)
