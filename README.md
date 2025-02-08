@@ -14,19 +14,23 @@
 </p>
 
 
-<h2>🛠️ Tools and Programming Languages</h2>
+### 🛠️ Tools and Programming Languages
 <a href="">
     <img src="https://skillicons.dev/icons?i=windows,python,js,html,css,nodejs,vscode,pycharm,github,git,discord" alt="Skills">
 </a>
 
 #
 
-<details>
-  <summary><h2>GitHub Stats ⚡</h2></summary>
+
+### GitHub Stats ⚡
+
+![](https://github-readme-stats.vercel.app/api?username=syartzahiri&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=syartzahiri&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=syartzahiri&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
   
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=syartzahiri&theme=blueberry&count_private=false&hide_border=true&line_height=20)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=syartzahiri&layout=compact&theme=blueberry&count_private=false&hide_border=true)
-  
-</details>
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&?theme=light)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=syartzahiri)
