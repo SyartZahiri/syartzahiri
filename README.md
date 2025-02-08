@@ -14,7 +14,7 @@
 </p>
 
 
-### 🛠️ Tools and Programming Languages
+<h3>🛠️ Tools and Programming Languages</h3>
 <a href="">
     <img src="https://skillicons.dev/icons?i=windows,python,js,html,css,nodejs,vscode,pycharm,github,git,discord" alt="Skills">
 </a>
@@ -34,6 +34,6 @@
   
 
 
-### ✍️ Random Dev Quote
+<h3>✍️ Random Dev Quote </h3>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&?theme=light)
 
