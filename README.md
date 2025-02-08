@@ -23,7 +23,7 @@
 
 
 <details>
-  <summary><h3>GitHub Stats ⚡</h3></summary>
+  <summary><h3>⚡ GitHub Stats</h3></summary>
 
   ![](https://github-readme-stats.vercel.app/api?username=syartzahiri&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=syartzahiri&theme=dark&hide_border=true)<br/>
