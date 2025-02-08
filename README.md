@@ -16,7 +16,7 @@
 
 <h3>🛠️ Tools and Programming Languages</h3>
 <a href="">
-    <img src="https://skillicons.dev/icons?i=windows,python,javascript,html,css,nodejs,vscode,github,git,discord" alt="Skills">
+    <img src="https://skillicons.dev/icons?i=windows,python,javascript,html,css,nodejs,vscode,github,git,discord&theme=dark" alt="Skills">
 </a>
 
 #
