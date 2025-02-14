@@ -10,7 +10,6 @@
 <p align="left">
 <a href="https://github.com/syartzahiri" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/syart/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/29646036/syart" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" height="30" width="40" /></a>
 <a href="https://instagram.com/syart.zh" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" height="30" width="40" /></a>
 </p>
 
