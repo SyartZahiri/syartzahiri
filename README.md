@@ -44,10 +44,4 @@ Werkzeuge&nbsp;&nbsp;Git · Docker · IntelliJ · VS Code
 <br>
 <br>
 
-<samp>Abseits vom Bildschirm</samp>
 
-Thaiboxen und Fitness.
-
-<br>
-
-<sub>Deutsch und Albanisch als Muttersprachen, Englisch aus der Schule.</sub>
